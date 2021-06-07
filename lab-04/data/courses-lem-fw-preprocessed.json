@@ -1,0 +1,854 @@
+{"courseId": "MSE-440", "name": "Composites technology", "description": []}
+{"courseId": "BIO-695", "name": "Image Processing for Life Science", "description": ["autonomously", "metadata"]}
+{"courseId": "FIN-523", "name": "Global business environment", "description": ["crises", "determinants", "nontraded", "begiven"]}
+{"courseId": "MICRO-614", "name": "Electrochemical nano-bio-sensing and bio/CMOS interfaces", "description": ["metabolites"]}
+{"courseId": "ME-231(a)", "name": "Structural mechanics (for MT)", "description": ["indeterminate", "ba2"]}
+{"courseId": "AR-402(v)", "name": "Th\u00e9orie et critique du projet MA2 (Boltshauser)", "description": ["supersede", "alongside", "wayne", "switzer", "corentin", "ryzard", "gorajek"]}
+{"courseId": "ChE-421", "name": "Advanced principles and applications of systems biology", "description": ["recur"]}
+{"courseId": "CH-403", "name": "Mass spectrometry", "description": ["spectrometric", "andmetabolomics"]}
+{"courseId": "COM-302", "name": "Principles of digital communications", "description": ["qam", "mod\u00e8les"]}
+{"courseId": "EE-432", "name": "Hardware systems modeling I", "description": ["designing", "tlm", "df", "elsevier", "portability", "tumbush", "testbench", "guidehttp", "sysveriloghttp", "systemc"]}
+{"courseId": "MGT-430", "name": "Quantitative systems modeling techniques", "description": ["logistical"]}
+{"courseId": "PHYS-455", "name": "Medical radiation physics", "description": ["fryback", "taxonomy", "illusion", "anthropomorphic"]}
+{"courseId": "EE-517", "name": "Bio-nano-chip design", "description": ["vdcm", "alkane"]}
+{"courseId": "MSE-613", "name": "Principles of powder and densification processing", "description": []}
+{"courseId": "MSE-423", "name": "Fundamentals of solid-state materials", "description": ["digaonalization", "solutations", "eigenstates"]}
+{"courseId": "MGT-621", "name": "Microeconomics", "description": ["login", "tba", "requrired"]}
+{"courseId": "MSE-437", "name": "Polymer chemistry and macromolecular engineering", "description": ["cationic", "copolymerization"]}
+{"courseId": "MSE-431", "name": "Physical chemistry of polymeric materials", "description": ["chainlike"]}
+{"courseId": "BIOENG-448", "name": "Fundamentals of neuroengineering", "description": []}
+{"courseId": "BIOENG-450", "name": "In Silico neuroscience", "description": ["cse", "preferentially", "provenance"]}
+{"courseId": "MSE-474", "name": "Materials selection", "description": ["mike"]}
+{"courseId": "MICRO-424", "name": "Optics laboratories I", "description": ["katsunari"]}
+{"courseId": "ME-432", "name": "Fracture mechanics", "description": ["singularity", "s1"]}
+{"courseId": "ENV-400", "name": "Air pollution and climate change\n", "description": []}
+{"courseId": "HUM-429(a)", "name": "Philosophy of life sciences I", "description": ["worldview", "normes", "phyics"]}
+{"courseId": "BIOENG-517", "name": "Lab methods : proteomics", "description": ["sampleionization", "sampleseparation", "esi", "severalpeptides", "intact", "mw", "dimethyl", "tmt", "mrm", "approaches", "adrien", "schmid"]}
+{"courseId": "MSE-420", "name": "Cementitious materials (advanced)", "description": ["sessins"]}
+{"courseId": "ENV-501", "name": "Material and energy flow analysis", "description": ["regional"]}
+{"courseId": "MATH-111(en)", "name": "Linear algebra (english)", "description": []}
+{"courseId": "ChE-302", "name": "Transport phenomena II", "description": ["blasius", "kozeney", "fluidization"]}
+{"courseId": "MICRO-505", "name": "Printed systems and large area manufacturing", "description": ["pritning", "flexography", "rectennas", "tfts", "submicrometer", "sun", "permeation", "roadmapping", "opv"]}
+{"courseId": "CS-352", "name": "Theoretical computer science", "description": ["th\u00e9orique"]}
+{"courseId": "HUM-417(a)", "name": "Philosophy, epistemology and history of science I", "description": []}
+{"courseId": "CIVIL-429", "name": "Reservoir mechanics for geo-energy and the environment", "description": ["poroelasticity", "surfaceevaluate", "fracturingdiscuss"]}
+{"courseId": "CIVIL-449", "name": "Non linear analysis of structures", "description": ["uniaxial", "timoshenko", "shell", "kiarash", "dolatshahi", "eesd", "achievable"]}
+{"courseId": "FIN-405", "name": "Investments", "description": ["settings", "alex", "kane", "alan"]}
+{"courseId": "CS-699(1)", "name": "Project 1 (EDIC)", "description": []}
+{"courseId": "ME-551", "name": "Engines and fuel cells", "description": ["diesel", "ignition", "supercharge", "e6design", "e19explain"]}
+{"courseId": "MSE-463", "name": "Recycling of materials", "description": ["weee"]}
+{"courseId": "COM-500", "name": "Statistical signal and data processing through applications", "description": ["regressive", "periodogram", "fire"]}
+{"courseId": "MATH-106(en)", "name": "Analysis II (English)", "description": ["jacobian", "hessian", "conceptualize", "applyefficiently", "analyzeand"]}
+{"courseId": "MGT-414", "name": "Technology & innovation strategy", "description": ["mover", "consulting", "packet"]}
+{"courseId": "BIO-501", "name": "Lab immersion I", "description": []}
+{"courseId": "COM-308", "name": "Internet analytics", "description": []}
+{"courseId": "MGT-526", "name": "Supply chain management", "description": ["philips", "hilti", "lego", "adidas", "glimpse"]}
+{"courseId": "CH-332", "name": "Medicinal chemistry", "description": []}
+{"courseId": "ME-476", "name": "Particle-based methods", "description": ["ah20identify", "escribe"]}
+{"courseId": "EE-605", "name": "Statistical Sequence Processing", "description": ["etc2", "programming4", "ann", "backward"]}
+{"courseId": "ENG-603", "name": "Solid state image sensing", "description": ["fabricated", "responsivity", "imagesensing", "photosensor", "impactron", "bbd", "phototransistors", "microbolometers"]}
+{"courseId": "MSE-425", "name": "Soft matter", "description": ["lyotropic", "micelle", "brush", "interparticle"]}
+{"courseId": "MATH-408", "name": "Advanced regression", "description": []}
+{"courseId": "CS-322", "name": "Introduction to database systems", "description": ["entity", "sorting", "jsp", "gui", "dbmsdesign", "er", "performs", "abou"]}
+{"courseId": "ME-453", "name": "Hydraulic turbomachines", "description": ["impeller", "efficiencies", "similtude", "injector", "choix", "illustr\u00e9", "r\u00e9alisation", "marquantes", "avellan", "scientifc"]}
+{"courseId": "MSE-629", "name": "Design and analysis of experiments in materials science and engineering", "description": ["caracterization", "khi", "factorial", "spreadsheet"]}
+{"courseId": "CS-490", "name": "Business design for IT services", "description": ["competency", "chasm"]}
+{"courseId": "ENV-715", "name": "Atmospheric Boundary Layer", "description": []}
+{"courseId": "CS-699(2)", "name": "Project 2 (EDIC)", "description": []}
+{"courseId": "MATH-625", "name": "Some problems in the theory of simple groups", "description": []}
+{"courseId": "ME-231(b)", "name": "Structural mechanics (for SV)", "description": []}
+{"courseId": "AR-402(w)", "name": "Studio MA2 (Escher et GuneWardena)", "description": []}
+{"courseId": "ME-499", "name": "Simulation and optimisation of industrial applications", "description": []}
+{"courseId": "MICRO-562", "name": "Biomicroscopy II", "description": ["marilyn", "gamble", "james", "xxviii"]}
+{"courseId": "MSE-443(b)", "name": "Modelling problem solving, computing and visualisation II", "description": []}
+{"courseId": "CH-709", "name": "Frontiers in Organic Synthesis. Part III Stereochemistry", "description": ["polyketides"]}
+{"courseId": "MICRO-504", "name": "Photonic micro- and nanosystems", "description": ["reflective", "shutter", "glv", "connects", "rotators", "mosis"]}
+{"courseId": "ENG-431", "name": "Safety of chemical processes", "description": []}
+{"courseId": "MATH-232", "name": "Probabilities and statistics", "description": ["9th", "aussi", "disponible", "traduction", "probabilit\u00e9s"]}
+{"courseId": "BIO-676", "name": "Practical - Fellay Lab", "description": ["clinically", "phenotype"]}
+{"courseId": "MSE-646", "name": "CCMX Winter School - Metal Science", "description": ["abnormal"]}
+{"courseId": "MICRO-452", "name": "Mobile robots", "description": ["rotor", "quadrotors", "cop", "approriate"]}
+{"courseId": "PHYS-630", "name": "Advanced experimental methods in condensed matter and nanophysics", "description": []}
+{"courseId": "ChE-601(a)", "name": "Leading research in Chemical Engineering (a)", "description": []}
+{"courseId": "ENV-426", "name": "Fluvial biogeosciences", "description": ["converge", "gross", "informs", "boix", "canadell", "biofilm"]}
+{"courseId": "CH-313", "name": "Biochemistry II", "description": ["catalsis", "polyketide"]}
+{"courseId": "MICRO-602", "name": "Micro-magnetic field sensors and actuators", "description": ["magnetostatic", "diamagnetism"]}
+{"courseId": "PHYS-437", "name": "Diffraction methods in structural biology", "description": []}
+{"courseId": "BIO-617", "name": "Practical - G\u00f6nczy Lab", "description": []}
+{"courseId": "PHYS-622", "name": "Principles and Practicals in X-Ray Scattering", "description": ["p\u00ebtr", "dmitriev", "nanocrystals", "cervellino", "michel", "bonin", "sacttered", "emmanuelle", "oksana", "zaharko"]}
+{"courseId": "PHYS-600", "name": "Frederic Joliot/Otto Hahn Summer School on nuclear reactors Physics, fuels and systems", "description": ["s", "ss", "fee", "enrolling"]}
+{"courseId": "MATH-472", "name": "Computational finance", "description": ["saddlepoint", "saddle"]}
+{"courseId": "MATH-332", "name": "Applied stochastic processes", "description": ["appreciation"]}
+{"courseId": "PHYS-710", "name": "Structure and evolution of galaxies (UNIGe)", "description": ["vicinity", "halo", "glaxy"]}
+{"courseId": "MATH-450", "name": "Numerical integration  of stochastic differential equations", "description": []}
+{"courseId": "BIO-479", "name": "Immunology", "description": ["thought", "mucosal", "mucosa", "evaulate", "reportc", "excerises", "summarization"]}
+{"courseId": "MSE-465", "name": "Thin film fabrication processes", "description": ["bombardment"]}
+{"courseId": "AR-401(z)", "name": "Studio MA1 (L\u00fctjens et Padmanabhan)", "description": ["succession", "avenue", "fa\u00e7ades", "modest", "builder", "lose", "recklessness", "conformism"]}
+{"courseId": "AR-401(y)", "name": "Th\u00e9orie et critique du projet MA1 (Huang)", "description": ["vibrant", "ordinarily"]}
+{"courseId": "EE-512", "name": "Biomedical signal processing", "description": ["pwoer"]}
+{"courseId": "CH-629(2)", "name": "Current Topics in Chemical Biology 2", "description": []}
+{"courseId": "ENV-525", "name": "Physics and hydrology of snow", "description": ["transmits", "redistribution", "vegetation"]}
+{"courseId": "CH-409", "name": "Nuclear magnetic resonance", "description": ["radiofrequency", "precession", "wimperis"]}
+{"courseId": "MSE-648", "name": "Limestone-Calcined Clay - Cement : Characterisation methods", "description": ["ciments", "compos\u00e9s", "financ\u00e9", "portland", "workability"]}
+{"courseId": "CH-447", "name": "Advanced materials for photovoltaics and lighting", "description": ["perovskite"]}
+{"courseId": "EE-535", "name": "Nanoelectronics", "description": ["analized", "gaa"]}
+{"courseId": "MGT-690(B)", "name": "Field Research Project B", "description": []}
+{"courseId": "AR-639", "name": "PhD Masterclass - The horizontal metropolis and other research questions", "description": ["venezia", "masterclass", "intituled", "cristina", "lorenzo", "stefano", "shane", "paola", "vigan\u00f2", "nb"]}
+{"courseId": "PENS-306", "name": "Mapping urban history", "description": ["panorama", "hgis", "geneva", "paris8", "geneva10", "session12"]}
+{"courseId": "ENG-615", "name": "Topics in Autonomous Robotics", "description": []}
+{"courseId": "EE-553", "name": "Speech processing", "description": ["formant", "baum", "adpcm", "celp", "dictation", "sondhi", "traitement", "parole"]}
+{"courseId": "MGT-602", "name": "Mathematical models in supply chain management", "description": ["alike", "pronounce", "proliferation", "rightfully", "widespread", "impede", "feasible"]}
+{"courseId": "BIO-634", "name": "Practical - Simanis Lab", "description": ["emplying"]}
+{"courseId": "EE-551", "name": "Image communication", "description": ["multiview", "methodsmultimedia"]}
+{"courseId": "PHYS-732", "name": "Plasma Diagnostics in Basic Plasma Physics Devices and Tokamaks: from Principles to Practice", "description": []}
+{"courseId": "PHYS-602", "name": "Nanophotonics and plasmonics", "description": ["localized", "plasmons", "eels"]}
+{"courseId": "CS-413", "name": "Computational photography", "description": ["invisible", "plenoptic", "compositing", "photomontage", "studens"]}
+{"courseId": "ENG-619", "name": "Information literacy for chemists", "description": ["chemspider"]}
+{"courseId": "CS-451", "name": "Distributed algorithms", "description": ["p2p", "synchrony", "terminate", "byzantine", "ditributed"]}
+{"courseId": "MGT-517", "name": "Entrepreneurship laboratory (e-lab)", "description": ["microsoft", "intel", "genentech", "pse", "timeframe"]}
+{"courseId": "EE-586", "name": "Introduction to planetary sciences", "description": ["hyptothesis"]}
+{"courseId": "BIOENG-445", "name": "Biomedical optics", "description": ["oxymetry", "exogenous", "photodynamic", "bigio", "fantini"]}
+{"courseId": "MGT-428", "name": "Quality assurance and quality management systems", "description": ["delineate", "efqm", "toyotism", "tps", "doctrine", "sr", "qms", "harmattan", "d\u00e9couvete"]}
+{"courseId": "MSE-610", "name": "Non-destructive evaluation methods", "description": ["penetrant", "leak", "ultrasonics"]}
+{"courseId": "ENV-422", "name": "Concepts in ecological engineering", "description": ["metapopulation", "wetland", "ba4", "eerecognize", "zedler", "harper", "aronson"]}
+{"courseId": "BIO-450", "name": "Molecular endocrinology", "description": ["endocrinology", "steroid"]}
+{"courseId": "CS-622", "name": "Privacy Protection", "description": ["preliminaries1", "unlinkability", "unobservability", "garble", "privacy2", "pir", "oram", "tor"]}
+{"courseId": "CS-550", "name": "Synthesis, analysis and verification", "description": ["fluency", "sipser", "stag"]}
+{"courseId": "ChE-409", "name": "Chemical engineering lab & project", "description": ["twelve", "tpd"]}
+{"courseId": "MATH-481", "name": "Mathematical modelling of DNA", "description": []}
+{"courseId": "MGT-453", "name": "Industry dynamics, models & trends", "description": ["participation70", "fleisher", "netword"]}
+{"courseId": "PHYS-318", "name": "Optics II", "description": ["transitions3", "emission3", "resonators4", "coursean"]}
+{"courseId": "EE-477", "name": "Multivariable control and coordination systems", "description": ["lqr"]}
+{"courseId": "MSE-703", "name": "Science and technology of UV-induced polymerization", "description": ["photopolymers", "photocurable", "photoinitiators", "polymers6", "research7"]}
+{"courseId": "BIOENG-511", "name": "Lab methods : animal experimentation", "description": ["14th", "6th"]}
+{"courseId": "CH-432", "name": "Structure and reactivity", "description": ["limitations2", "sigmatropic", "ireland", "nitrenes3", "photochemistry5", "olefin"]}
+{"courseId": "FIN-406", "name": "Macrofinance", "description": ["macroeconomy", "testable"]}
+{"courseId": "MGT-528", "name": "Operations: economics & strategy", "description": ["homework40"]}
+{"courseId": "CH-711", "name": "Inorganic chemistry \"Applications and spin-offs\"", "description": []}
+{"courseId": "CS-435", "name": "Analytic algorithms", "description": ["cheeger", "ramanujan", "math110", "cs250", "tentative"]}
+{"courseId": "CIVIL-402", "name": "Geomechanics", "description": ["perfectly", "hardening", "dilatancy", "collapse", "liquefaction", "geomaterial", "undergroud", "shales"]}
+{"courseId": "CS-422", "name": "Database systems", "description": ["oltp", "logging"]}
+{"courseId": "HUM-432(b)", "name": "How people learn II", "description": []}
+{"courseId": "BIO-315", "name": "Biomolecular structure and mechanics", "description": ["novo", "misfolding", "themodynamics"]}
+{"courseId": "BIO-680", "name": "Practical - De Palma Lab", "description": ["microenvironment", "immunofuorescence"]}
+{"courseId": "ENG-466", "name": "Distributed intelligent systems", "description": ["compile"]}
+{"courseId": "MSE-490(a)", "name": "Research project in materials I", "description": []}
+{"courseId": "BIO-441", "name": "Nutrition: from molecules to health", "description": ["\u00e2\u0080\u009cintegrated", "challengtes", "micronutriment", "signaling"]}
+{"courseId": "MSE-466", "name": "Wood structures, properties and uses", "description": ["forestry", "hardwood", "fonction", "portrait", "comportement", "hydrom\u00e9canique", "navi", "polycopy"]}
+{"courseId": "MGT-552", "name": "Corporate governance", "description": ["agency", "shareholder", "course70"]}
+{"courseId": "BIO-468", "name": "Scientific literature analysis in Computational molecular biology", "description": []}
+{"courseId": "BIO-714", "name": "Mechanisms of cell motility", "description": ["eucaryotic", "flagellate", "ciliated", "accessory", "cytokinesis"]}
+{"courseId": "MSE-490(c)", "name": "Specialisation project in materials", "description": []}
+{"courseId": "PENS-201", "name": "Making structural logic", "description": ["lima", "redesign", "architects", "diagrammatic", "mimesis", "deductive", "paths", "engender", "confronts"]}
+{"courseId": "BIOENG-433", "name": "Biotechnology lab (for CGC)", "description": ["purify", "shaker", "bioeng"]}
+{"courseId": "ChE-437", "name": "Bioprocesses and downstream processing", "description": ["manfred", "fermenters", "polish", "sec", "enquiry", "telephone"]}
+{"courseId": "MATH-409", "name": "Algebraic curves and cryptography", "description": ["genus"]}
+{"courseId": "EE-550", "name": "Image and video processing", "description": ["restitution", "canny"]}
+{"courseId": "ChE-311", "name": "Biochemical engineering", "description": ["membranepotential", "compressibility", "charcoal", "diafiltration"]}
+{"courseId": "EE-518", "name": "Analog circuits for biochip", "description": ["frontend"]}
+{"courseId": "EE-543", "name": "Advanced wireless communications: algorithms and architectures", "description": ["decoder", "cdmadevelop"]}
+{"courseId": "ME-484", "name": "Numerical methods in biomechanics", "description": ["b3compute", "b7implement", "b9compute", "b10compute", "b11", "midtem", "writtn"]}
+{"courseId": "BIO-636", "name": "Practical - Cole Lab", "description": ["dock"]}
+{"courseId": "MATH-635", "name": "Functional Data Analysis", "description": ["regularisation"]}
+{"courseId": "COM-407", "name": "TCP/IP networking", "description": ["interdomain", "mpls", "nats", "configure"]}
+{"courseId": "PHYS-448", "name": "Introduction to particle accelerators", "description": []}
+{"courseId": "MGT-641(d)", "name": "Technology and Public Policy - (d) Technology policies for grand and global challenges", "description": ["procurement", "ante"]}
+{"courseId": "MGT-641(b)", "name": "Technology and Public Policy - (b) Technology, policy and regulation", "description": ["basically", "andregulation", "ibn", "unite", "road", "postal"]}
+{"courseId": "CS-522", "name": "Principles of computer systems", "description": ["modularity", "indirection", "declarativity", "laziness", "privilege", "tcb", "significantly", "latency"]}
+{"courseId": "ENV-320", "name": "Physics and chemistry of the atmosphere", "description": ["hydrometeors", "measurments", "lehning"]}
+{"courseId": "ME-482", "name": "Biomechanics of the musculoskeletal system", "description": ["b5propose", "b9describe"]}
+{"courseId": "AR-202(c)", "name": "Studio BA4 (De Vylder & Taillieu)", "description": []}
+{"courseId": "BIO-663", "name": "Practical - Trono Lab", "description": ["lentivirus"]}
+{"courseId": "MICRO-607", "name": "Highlights in microtechnology", "description": ["microrobotics", "shorter", "microrobotic"]}
+{"courseId": "ChE-301", "name": "Transport phenomena I", "description": ["ostwald", "thixotropic", "rheopectic", "identical"]}
+{"courseId": "FIN-610", "name": "International Finance", "description": ["cycles3", "pricing4", "openness"]}
+{"courseId": "BIOENG-447", "name": "Chemical biology - tools and methods", "description": ["assays"]}
+{"courseId": "HUM-403(a)", "name": "Experimental cognitive psychology I", "description": ["psychologist", "responsibly"]}
+{"courseId": "CS-712", "name": "Topics on Datacenter Design", "description": ["megawatt", "backbone", "barrosso"]}
+{"courseId": "ME-302", "name": "Mechanical design principles", "description": ["belt"]}
+{"courseId": "MSE-635", "name": "Scanning and Analytical Transmission Electron Microscopy", "description": []}
+{"courseId": "EE-704", "name": "Computational perception using multimodal sensors", "description": []}
+{"courseId": "CH-424", "name": "Supramolecular chemistry", "description": ["pseudorotaxanes", "catenenaes"]}
+{"courseId": "BIO-465", "name": "Biological modeling of neural networks", "description": ["hopfield", "potentiation", "fokker", "miniprojects"]}
+{"courseId": "EE-554", "name": "Automatic speech processing", "description": ["codign", "regulary"]}
+{"courseId": "MSE-480", "name": "Dielectric properties of materials", "description": ["multiferroic", "ptc", "ntc", "chemsitry", "chrystallography"]}
+{"courseId": "PHYS-625", "name": "Using Mathematica to analyse and model experimental data", "description": []}
+{"courseId": "ChE-452", "name": "Process development II", "description": []}
+{"courseId": "MICRO-566", "name": "Large-area electronics: devices and materials", "description": []}
+{"courseId": "CH-628", "name": "Chemosensory receptors: Applications for biosensors and medical therapies", "description": ["gustatory", "bioassay", "odorants", "sens"]}
+{"courseId": "ENG-430", "name": "Risk management", "description": ["hazop", "tolerable", "risks2", "principles3", "analysis7"]}
+{"courseId": "CS-423", "name": "Distributed information systems", "description": ["semester75"]}
+{"courseId": "MATH-463", "name": "Mathematical modelling of behavior", "description": ["theory3", "data4", "choice6", "nest", "logit", "model7"]}
+{"courseId": "FIN-607", "name": "Empirical Asset Pricing", "description": ["hussey", "kurtosis", "santos", "queen"]}
+{"courseId": "HUM-370", "name": "Risk and energy", "description": ["antifragility", "inaction", "uni", "disaster", "valentine", "shsexplore"]}
+{"courseId": "CH-427", "name": "Coordination chemistry and reactivity of f elements", "description": ["synopsis", "lanthanide", "luminescent"]}
+{"courseId": "AR-476", "name": "UE U : Cartography", "description": ["totality", "spacial", "encoding", "submittal", "jam", "jr", "kindersley", "kenneth", "murray", "reaktion", "palimpseste", "essais", "imprimeur", "massachussetts", "villette", "alain", "gallimard", "georg", "trinity", "n\u00e9cessit\u00e9", "autres", "l\u00e9gendes"]}
+{"courseId": "ENG-422", "name": "Optional project in Systems engineering", "description": []}
+{"courseId": "ENG-616(3)", "name": "Energy Regulation (2016)", "description": []}
+{"courseId": "CS-432", "name": "Computational motor control", "description": ["skeletal", "humanoid", "proprioception", "primate"]}
+{"courseId": "EE-533", "name": "Data converter circuits and systems", "description": ["dac"]}
+{"courseId": "CH-311", "name": "Molecular and cellular biophysic I", "description": ["allostery", "\u0080\u0093"]}
+{"courseId": "EE-555", "name": "Systems and architectures for signal processing", "description": ["weaver", "theor", "bbc"]}
+{"courseId": "PHYS-734", "name": "Tokamak Plasma Control", "description": ["iter4", "optimisation5", "quantities", "profiles8", "conflict9", "work10", "contact11"]}
+{"courseId": "BIO-699(m)", "name": "Training Rotation (EDMS)", "description": ["delinating"]}
+{"courseId": "MICRO-530", "name": "Nanotechnology", "description": ["nanolithography", "nanoimprinting", "nanoporous", "nanoprobes", "microstructuration", "describethe"]}
+{"courseId": "PHYS-458", "name": "Metrology I", "description": []}
+{"courseId": "CS-450", "name": "Advanced algorithms", "description": ["repertory", "worst", "amortize"]}
+{"courseId": "MICRO-486", "name": "Project in neuroprosthetics", "description": []}
+{"courseId": "MSE-441", "name": "Electrochemistry for materials technology", "description": ["alliages"]}
+{"courseId": "PHYS-453", "name": "Quantum electrodynamics and quantum optics", "description": []}
+{"courseId": "BIO-489", "name": "Scientific literature analysis in molecular and cancer biology", "description": []}
+{"courseId": "MATH-311", "name": "Rings and modules", "description": ["indecomposable", "homomorphisms", "nullstellensatz"]}
+{"courseId": "BIO-679", "name": "Practical - Suter Lab", "description": ["bioluminescence"]}
+{"courseId": "CS-434", "name": "Unsupervised and reinforcement learning in neural networks", "description": ["changes2", "clustering7", "formalisation9", "spaces10", "eligibity", "stdp12", "neuromodulators", "abstrations"]}
+{"courseId": "PHYS-611", "name": "Optics and technology of liquid crystal displays", "description": ["displays2", "examples5", "materials6", "crystals7", "principles10", "fabrication11", "labcourse"]}
+{"courseId": "BIO-684", "name": "Hot Topics in Cancer Research", "description": ["attract", "invitee", "competitively", "winner", "exclusive", "20lectures"]}
+{"courseId": "EE-490(d)", "name": "Lab in microelectronics", "description": ["ssb", "transcribe", "analyzis"]}
+{"courseId": "MATH-341", "name": "Linear models", "description": ["outlier", "procedures", "revisit", "penalty", "pursuit", "parsimony", "interpretability"]}
+{"courseId": "ChE-411", "name": "Principles and applications of systems biology", "description": ["analyzes"]}
+{"courseId": "COM-712", "name": "Statistical Physics for Communication and Computer Science", "description": ["curie", "weiss", "marginalization", "wormald"]}
+{"courseId": "MGT-403", "name": "Economics of innovation in the biomedical industry", "description": ["neglect"]}
+{"courseId": "ChE-204", "name": "Introduction to transport phenomena", "description": []}
+{"courseId": "PHYS-627", "name": "Magnetic and semiconducting nanostructures", "description": ["tmr", "biexcitons", "stark"]}
+{"courseId": "ME-705", "name": "Experimental Geomechanics", "description": []}
+{"courseId": "HUM-403(b)", "name": "Experimental cognitive psychology II", "description": []}
+{"courseId": "CH-442", "name": "Photochemistry I", "description": ["photophysical", "excimers", "exciplexes", "tron", "ethenes", "chromophore", "superoxide", "ethene"]}
+{"courseId": "BIO-447", "name": "Stem cell biology and technology", "description": []}
+{"courseId": "MSE-462", "name": "Powder technology", "description": ["granulation", "polmyer", "cyrstal"]}
+{"courseId": "FIN-504", "name": "Credit risk", "description": ["collateralized", "tranche"]}
+{"courseId": "MATH-469", "name": "Parabolic and hyperbolic PDE's", "description": []}
+{"courseId": "MSE-709", "name": "Powder Characterisation and Dispersion", "description": ["porosity", "nanopowders"]}
+{"courseId": "EE-616", "name": "IEEE Sensors Council Summer School on Nano-Bio-Sensing", "description": ["insightful", "ali", "khademhosseini", "phelps", "gielen", "carrara", "atienza", "maysam", "gerogia", "bianchessi", "till", "danilo", "teragnostics"]}
+{"courseId": "ChE-601(b)", "name": "Leading research in Chemical Engineering (b)", "description": []}
+{"courseId": "ME-571", "name": "Numerical methods in heat transfer", "description": ["ah11", "ah29", "ah28analyze", "ah29perform"]}
+{"courseId": "AR-401(b)", "name": "Th\u00e9orie et critique du projet MA1 (Gugger)", "description": ["costa", "cogato", "pattaroni", "barcelloni", "cavallieri", "\u00e9tudes", "andersen", "rey", "k\u00e4mpfen", "spatiale", "r\u00e9gionale", "dessemontet", "tursic", "occasion", "attach"]}
+{"courseId": "EE-530", "name": "Test of VLSI systems", "description": ["exercised", "lfsr", "signatures", "jtag", "agrawal"]}
+{"courseId": "MICRO-520", "name": "Laser microprocessing", "description": []}
+{"courseId": "AR-416", "name": "UE N : Art et architecture: constructing the view II", "description": ["upheaval", "und", "trainees", "rationally", "plausible", "realizable", "assemblage"]}
+{"courseId": "FIN-700", "name": "Empirical Corporate Finance", "description": []}
+{"courseId": "MICRO-704", "name": "IC design for robustness", "description": ["measurement2", "cmrr", "feedthrough8", "robustness12", "ics13"]}
+{"courseId": "MGT-581", "name": "Introduction to econometrics", "description": []}
+{"courseId": "PHYS-450", "name": "Radiation protection & radiation applications", "description": []}
+{"courseId": "PHYS-433", "name": "Semiconductor physics and fundamentals of electronic devices", "description": ["mesfet"]}
+{"courseId": "ChE-413", "name": "Chemical engineering product design", "description": ["vague"]}
+{"courseId": "PHYS-403", "name": "Computer simulation of physical systems I", "description": ["verlet", "corrector", "nos\u00e9", "hoover", "thermostat"]}
+{"courseId": "CH-412", "name": "Chemical biology", "description": ["autofluorescent"]}
+{"courseId": "ENG-467", "name": "Experimental design and data analysis with R", "description": ["jura", "panaretos", "alexandre", "glm"]}
+{"courseId": "CS-431", "name": "Introduction to natural language processing", "description": ["lexica", "checker", "semantic", "linguisitics", "subproblems", "tokenizing", "nlpanalyze"]}
+{"courseId": "COM-405", "name": "Mobile networks", "description": []}
+{"courseId": "HUM-417(b)", "name": "Philosophy, epistemology and history of science II", "description": ["417a"]}
+{"courseId": "EE-540", "name": "Optical communications", "description": ["linearities", "chirp", "reception", "mile\u00bb", "wavlength"]}
+{"courseId": "MICRO-705", "name": "Low-voltage analog CMOS IC design", "description": ["amplify", "adcs"]}
+{"courseId": "MICRO-708", "name": "Nano CMOS Devices & Technologies for Tera-Bit Circuits and Systems", "description": ["remove", "sce", "dibl"]}
+{"courseId": "ENV-366", "name": "Quantitative methods II", "description": []}
+{"courseId": "BIO-682", "name": "Trends in Metabolism & Physiology", "description": ["organismal", "fbm", "renowed", "metabolonomics"]}
+{"courseId": "EE-552", "name": "Media security", "description": ["copyright", "abd"]}
+{"courseId": "COM-516", "name": "Markov chains and algorithmic applications", "description": ["irreducibility", "limiting", "cutoff"]}
+{"courseId": "ChE-304", "name": "Energy systems engineering", "description": ["pertainaing", "sustinable"]}
+{"courseId": "MSE-304", "name": "Surfaces and interfaces", "description": []}
+{"courseId": "CH-446", "name": "Lasers and applications in chemistry", "description": ["diffration"]}
+{"courseId": "MATH-625(2)", "name": "Working Group in Algebraic Groups, II", "description": []}
+{"courseId": "ENG-435", "name": "Chemistry of food processes", "description": ["aroma", "dispersed"]}
+{"courseId": "MICRO-420", "name": "Selected topics in advanced optics", "description": ["mie"]}
+{"courseId": "MGT-707", "name": "Product lifecycle management - concepts methods and tools", "description": ["technologies2", "management5", "peid", "productlifecycle"]}
+{"courseId": "BIOENG-390", "name": "Project in bioengineering and biosciences", "description": ["thecientific"]}
+{"courseId": "MATH-428", "name": "Introduction to Algebraic geometry", "description": ["birational"]}
+{"courseId": "BIO-504", "name": "Lab immersion academic (outside EPFL) A", "description": []}
+{"courseId": "MSE-471", "name": "Biomaterials (pour MX)", "description": ["dental", "tooth"]}
+{"courseId": "MGT-409", "name": "D. Thinking: real problems, human-focused solutions", "description": ["ideate", "maximimum", "accepted"]}
+{"courseId": "FIN-525", "name": "Financial big data", "description": ["overfitting", "porfolio", "stylize", "win", "aquaintance"]}
+{"courseId": "EE-724", "name": "Human language technology: applications to information access", "description": ["lingual", "phrase"]}
+{"courseId": "MICRO-402", "name": "Modeling and simulation of microsystems", "description": ["sinusoidal", "electrothermal"]}
+{"courseId": "CH-622", "name": "Synergism between Art of Total Synthesis and High Level Strategic Design (MOM)", "description": ["puisuit"]}
+{"courseId": "MATH-731", "name": "Topics in geometric analysis I", "description": ["calabi", "yamabe"]}
+{"courseId": "MSE-636(b)", "name": "Scanning electron microscopy techniques (b)", "description": []}
+{"courseId": "EE-490(a)", "name": "Lab in acoustics", "description": ["audiometry", "reverberant", "tp7", "tp8", "tp9", "tp11", "tp12", "acoustc"]}
+{"courseId": "EE-519", "name": "Bioelectronics and implantable biomedical microelectronics", "description": ["designs", "epilepsy", "pill"]}
+{"courseId": "CS-323", "name": "Introduction to operating systems", "description": []}
+{"courseId": "ChE-600", "name": "Solar photovoltaics and energy systems", "description": ["conversion3", "concepts4", "electrochemistry7", "processes8", "photovoltaics9", "materials10", "overview11"]}
+{"courseId": "EE-714", "name": "Nonlinear signal modeling and prediction", "description": ["explode", "autoregression"]}
+{"courseId": "FIN-601", "name": "Theoretical corporate finance", "description": []}
+{"courseId": "BIO-482", "name": "Neurosciences II : cellular mechanisms of brain function", "description": ["dendrites", "excitatory", "inhibitory", "excitability", "dendrite"]}
+{"courseId": "CS-411", "name": "Digital education & learning analytics", "description": []}
+{"courseId": "CH-708", "name": "Frontiers in Organic Synthesis. Part II Synthesis of carbo- and hetero-cycles", "description": ["indole", "imidazole", "triazole", "aziridines", "azetidines", "lactames", "lac", "heteroaromatic", "benzofuran", "quinoline", "isoquinoline", "quina", "zoline", "carbazole", "environ", "huisgen", "structur"]}
+{"courseId": "EE-434", "name": "Hardware systems modeling", "description": ["fsm", "asm"]}
+{"courseId": "CH-242(a)", "name": "Statistical thermodynamics", "description": ["blackbody"]}
+{"courseId": "CS-401", "name": "Applied data analysis", "description": ["panda", "undergo", "scrap", "dice", "dataframes", "inconsistent", "influencers", "infographics", "unify", "reporting", "ada"]}
+{"courseId": "MSE-450", "name": "Electron microscopy: advanced methods", "description": ["scanning", "cristallography", "cristal", "reserve"]}
+{"courseId": "EE-537", "name": "Modeling of emerging electron devices", "description": ["mugfet", "infomation"]}
+{"courseId": "BIO-464", "name": "Scientific literature analysis in cell and developmental biology", "description": ["spindle", "somite", "xenopus", "andy", "oates"]}
+{"courseId": "MATH-457", "name": "Numerical approximation of PDE's II", "description": []}
+{"courseId": "ME-321", "name": "Control systems   TP", "description": ["a1", "a2", "a5", "a7design", "a10assess", "a16", "troisi\u00e8me"]}
+{"courseId": "MICRO-563", "name": "Project in biomedical technologies", "description": []}
+{"courseId": "BIO-677", "name": "Practical - Hantschel Lab", "description": ["potency"]}
+{"courseId": "PHYS-324", "name": "Classical electrodynamics", "description": ["wiechert", "multipole", "galilean", "covariant"]}
+{"courseId": "CS-433", "name": "Pattern classification and machine learning", "description": ["differentiable", "marginals", "performaces"]}
+{"courseId": "EE-465", "name": "Industrial electronics I", "description": ["synchronisation", "emphassis", "damping", "proactivness", "liserre", "pedro"]}
+{"courseId": "MSE-628", "name": "CCMX Advanced Course 'Advanced X-ray Diffraction Methods for Coatings: strain, defects and deformation analysis of thin films", "description": ["hr"]}
+{"courseId": "CH-312", "name": "Molecular and cellular biophysic II", "description": ["substates", "chaperone", "stimulus"]}
+{"courseId": "MSE-656", "name": "CCMX Advanced Course - Instrumented Nanoindentation", "description": ["knoop", "instrumented", "unusual", "materals", "coratings"]}
+{"courseId": "PHYS-615", "name": "Electronic properties of solids and superconductivity", "description": ["rixs"]}
+{"courseId": "BIO-608", "name": "Practical - Brisken Lab", "description": ["wholemounting", "immunostaining", "progesterone", "collagen", "brisken"]}
+{"courseId": "ENV-523", "name": "Hydrogeophysics", "description": ["hydrogeophysics", "aquifer"]}
+{"courseId": "BIOENG-486", "name": "Sensorimotor neuroprosthetics", "description": ["supraspinal", "alteration", "finger", "injury", "neuromuscular", "epidural"]}
+{"courseId": "MATH-400", "name": "Advanced analysis I", "description": ["normed", "stieltjes", "monotn", "monotone", "kopp"]}
+{"courseId": "MSE-619", "name": "Nanofabrication with focused electron and ion beams", "description": ["fibelectron"]}
+{"courseId": "PHYS-404", "name": "Computer simulation of physical systems II", "description": []}
+{"courseId": "ENG-421", "name": "Fundamentals in Systems Engineering", "description": ["beneficiaries", "maintainer", "interwoven", "vex", "dec", "july", "loureiro", "voyage", "3a", "clausing", "olivier", "steven", "moses", "seering", "diller", "agte", "tahan", "ben", "mitchell", "leveson", "safer", "hb", "shishko", "diego", "sep", "neufville", "chaize", "staged", "bibliograpgy"]}
+{"courseId": "MATH-458", "name": "Programming concepts in scientific computing", "description": ["inheritance", "qcm"]}
+{"courseId": "CS-430", "name": "Intelligent agents", "description": ["motivated", "artificielle"]}
+{"courseId": "ME-516", "name": "Lifecycle performance of product systems", "description": ["eolmethodologies", "lcccase", "cp6carry", "cp10"]}
+{"courseId": "BIOENG-312", "name": "Fluid mechanics for SV", "description": []}
+{"courseId": "MGT-597", "name": "Engineering internship credited with master project (master in Management of Technology and Entrepreneurship)", "description": ["mte"]}
+{"courseId": "EE-706", "name": "Active noise control", "description": ["interferences", "feedforward"]}
+{"courseId": "CS-212", "name": "Reactive programming", "description": ["commutativity", "associativity", "conversational"]}
+{"courseId": "MGT-404", "name": "Principles of intellectual property management", "description": ["mnes", "litigation", "espionage", "ippropose"]}
+{"courseId": "MICRO-425", "name": "Optics laboratories II", "description": []}
+{"courseId": "AR-415", "name": "UE L : Art and architecture: constructing the view I", "description": ["talent", "nothingness", "foremost", "borrow", "lesser", "adobe", "aesthetics"]}
+{"courseId": "CS-320", "name": "Computer language processing", "description": ["whiteboard", "indepdently", "andrew", "monica", "sethi", "prominent", "authority", "lara", "cc", "faboulous", "gently"]}
+{"courseId": "CH-448", "name": "Photomedicine", "description": []}
+{"courseId": "ME-454", "name": "Modelling and optimization of energy systems", "description": ["flowsheets", "ind"]}
+{"courseId": "ME-618", "name": "1st Workshop on Advances in CFD and MD modelling of Interface Dynamics in Capillary Two-Phase Flows", "description": ["thermophysics", "uc", "trujillo", "wisconsin", "madison", "kobe"]}
+{"courseId": "MGT-500", "name": "Early detection of innovation potential", "description": ["cursus", "indirectly", "exercise\u00bb", "accessibility"]}
+{"courseId": "ENV-402", "name": "Sanitary engineering in developing countries", "description": ["haulage"]}
+{"courseId": "CH-319", "name": "Experimental biochemistry and biophysics", "description": ["brick", "absorbance", "manual", "ap", "editor"]}
+{"courseId": "CS-444", "name": "Virtual reality", "description": ["acheiving", "cave", "stereoscopy", "vrapply"]}
+{"courseId": "ChE-602(1)", "name": "Recent Events in Energy-1", "description": ["systms"]}
+{"courseId": "MICRO-620", "name": "Self-assembly of Microsystems", "description": []}
+{"courseId": "HUM-427(b)", "name": "History of globalization II", "description": []}
+{"courseId": "ME-481", "name": "Biomechanics of the cardiovascular system", "description": ["elastance", "arterio", "windkessel", "artery", "collapsible"]}
+{"courseId": "EE-491(a)", "name": "Project in Electrical Energy Systems", "description": []}
+{"courseId": "ME-467", "name": "Turbulence", "description": ["rans", "ah4explain", "ah26differentiate", "transitional"]}
+{"courseId": "CH-241", "name": "Chemical thermodynamics", "description": ["carnot", "strirling", "fugacity", "clausius"]}
+{"courseId": "MATH-731(2)", "name": "Topics in geometric analysis II", "description": ["revitalize"]}
+{"courseId": "MSE-641", "name": "Methods of Modelling and Simulation of Materials Science", "description": []}
+{"courseId": "CH-413", "name": "Nanobiotechnology and biophysics", "description": ["bioanalytical", "biopolymers", "miniaturisation", "container", "nanobiotechnology"]}
+{"courseId": "ME-459", "name": "Thermal power cycles and heat pump systems", "description": ["brayton", "kalina", "boiler", "igcc", "thermohydraulics", "volumetric", "e10calculate", "vo", "lumetric", "e14analyse"]}
+{"courseId": "COM-102", "name": "Advanced information, computation, communication II", "description": ["chinese", "remainder", "speaces", "ham", "cathedrra"]}
+{"courseId": "ME-415", "name": "Methods for rapid production and development", "description": ["shortcoming", "sl", "differentaspects", "cli", "sli", "tooling", "sintering", "productionmethods", "11select", "13formulate", "16formulate"]}
+{"courseId": "CS-305", "name": "Software engineering", "description": ["git", "performant", "sweng"]}
+{"courseId": "HUM-432(a)", "name": "How people learn I", "description": ["theorist"]}
+{"courseId": "MSE-204", "name": "Thermodynamics for materials science", "description": ["eutectic"]}
+{"courseId": "ME-251", "name": "Thermodynamics and energetics I", "description": ["cylces", "fundamentals", "nozzle", "lee", "kesler", "e2compute", "e1elaborate", "e6"]}
+{"courseId": "MGT-410", "name": "Applied corporate & industry analysis (MTE master only)", "description": ["chocolate", "businesslike"]}
+{"courseId": "MICRO-611", "name": "Nanoscale MOSFETs and beyond CMOS devices", "description": ["stacked", "swing"]}
+{"courseId": "ChE-603", "name": "Electrochemical Thermodynamics and Kinetics of Metals and Semiconductors for Energy Conversion", "description": ["photoelectrosynthetic", "bockris", "2a", "aldeco", "2b", "besson", "pr\u00e9cis", "cin\u00e9tique", "poignet", "gurevich", "oxidize", "fri"]}
+{"courseId": "PHYS-631", "name": "Fundamentals of superresolution optical microscopy and Scanning Probe Microscopy", "description": ["pupil", "ultramicroscopy", "photoactivated", "sim", "peculiarity", "deserve", "presuppose"]}
+{"courseId": "BIO-449", "name": "Understanding Statistics and Experimental Design", "description": []}
+{"courseId": "BIO-487", "name": "Scientific project design in translational neurosciences", "description": ["calorie", "feeding", "toxin", "biomarker", "cliquez", "consulter", "czak\u00e3\u00b3"]}
+{"courseId": "MSE-470(b)", "name": "Seminar series on advances in materials (spring)", "description": []}
+{"courseId": "COM-415", "name": "Audio signal processing and virtual acoustics", "description": ["playback", "treated", "sonification"]}
+{"courseId": "CIVIL-530", "name": "Slope stability", "description": ["coupled", "undrained", "drawdown"]}
+{"courseId": "MGT-635", "name": "Economics of Innovation and Technological Change", "description": ["dtu", "partake", "dominique", "foray"]}
+{"courseId": "MATH-407", "name": "Elliptic PDE's", "description": ["caccioppoli", "sobolev", "reillich", "kondrachov", "comptactness", "unbounded", "sufficiently"]}
+{"courseId": "ME-417", "name": "Computer-aided engineering", "description": ["cae", "cp6realize", "assemblies", "cp8evaluate", "buil"]}
+{"courseId": "PHYS-445", "name": "Nuclear fusion and plasma physics", "description": ["plasma5", "stability6", "plasma8", "waves10", "basicknowledge"]}
+{"courseId": "EE-491(c)", "name": "Project in micro and nanoelectronics", "description": []}
+{"courseId": "ENV-200", "name": "Environmental chemistry", "description": ["photochemisty", "behra", "boeck", "gschwend"]}
+{"courseId": "EE-470", "name": "Power systems dynamics", "description": ["seidel", "eurostag", "domaine"]}
+{"courseId": "MSE-485", "name": "Tribology", "description": ["tribocorrosion", "couch", "hutchings", "approche", "landolt", "tic"]}
+{"courseId": "MATH-483", "name": "G\u00f6del and recursivity", "description": ["representable", "recursivity", "undecidable", "decidability", "skolem"]}
+{"courseId": "MGT-408", "name": "Technology policy and the energy transition", "description": ["involves", "efficeincy", "participation75"]}
+{"courseId": "MSE-627", "name": "X-Ray Analysis for thin films", "description": []}
+{"courseId": "ENV-614", "name": "Fourier analysis and boundary value problems", "description": []}
+{"courseId": "MSE-211", "name": "Organic chemistry", "description": ["structure3", "compounds4", "reactions5", "polymerizations3", "elastomers", "polyolefins", "polyester", "polyamide", "polycarbonates", "polyurethane", "lecturesactive", "demonstratingsolutions", "polymerchemistry"]}
+{"courseId": "CH-706", "name": "Density functional theory for chemistry students", "description": ["functionals", "gga13"]}
+{"courseId": "EE-712", "name": "Advanced microwaves for wireless communications", "description": []}
+{"courseId": "MGT-483", "name": "Optimal decision making", "description": ["revenue"]}
+{"courseId": "EE-433", "name": "Hardware systems modeling II", "description": ["ams"]}
+{"courseId": "PHYS-726", "name": "Introduction to Frustrated Magnetism", "description": ["frustration", "degeneracy", "nematic", "order7", "resonate", "order8", "perpectives"]}
+{"courseId": "COM-611", "name": "Quantum Information Theory and Computation", "description": ["qubit", "subadditivity", "schumacher", "holevo", "unitary", "josza"]}
+{"courseId": "FIN-506", "name": "Investing: a Guide to Doing the Right Thing", "description": ["dodd", "duty", "esg", "fin405", "managerment"]}
+{"courseId": "BIO-212", "name": "Biological chemistry II (for SV)", "description": ["citric", "glycolysis", "gluconeogenesis", "pentose", "cox"]}
+{"courseId": "AR-402(c)", "name": "Th\u00e9orie et critique du projet MA2 (Geers)", "description": ["islam"]}
+{"courseId": "PENS-210", "name": "Renewable energy and solar architecture in Davos", "description": ["look", "\u00abrenewable", "infrastructure\u00bb"]}
+{"courseId": "BIO-507", "name": "Lab immersion in industry B", "description": []}
+{"courseId": "CH-630(2)", "name": "Seminars in Physical Chemistry (2)", "description": []}
+{"courseId": "MATH-444", "name": "Multivariate statistics", "description": ["statistial", "andindependent"]}
+{"courseId": "FIN-407", "name": "Financial econometrics", "description": ["var", "lo", "kinlay", "princeton", "rockinger"]}
+{"courseId": "ChE-401", "name": "Equilibrium-stage separation processes", "description": []}
+{"courseId": "MSE-638", "name": "Electron Microscopy for Life Science", "description": ["lectures1", "imaged", "microscopist", "loussert", "sessions1"]}
+{"courseId": "ENV-424", "name": "Water resources engineering", "description": ["multipurpose", "multicriteria", "drought", "multipourpouse", "timeseries", "withdawals", "hydrological"]}
+{"courseId": "EE-330", "name": "IC design II", "description": []}
+{"courseId": "EE-585", "name": "Space mission design and operations", "description": ["partly", "shuttle", "tether", "extravehicular"]}
+{"courseId": "ME-425", "name": "Model predictive control", "description": ["recede"]}
+{"courseId": "CS-442", "name": "Computer vision", "description": []}
+{"courseId": "CH-443", "name": "Photochemistry II", "description": ["photoredox", "hush", "photogalvanic", "photopolymer", "silver", "quantume", "functionning", "aof"]}
+{"courseId": "ME-466", "name": "Instability", "description": ["destabilization", "ah4implement"]}
+{"courseId": "MSE-637(a)", "name": "Transmission electron microscopy and diffraction (a)", "description": []}
+{"courseId": "PHYS-609", "name": "Modern photovoltaic technologies", "description": ["technologies1", "tundems", "cigs", "cells2"]}
+{"courseId": "EE-726", "name": "Sparse stochastic processes", "description": ["khinchine", "ill", "reinterpretation", "sparseprocesses"]}
+{"courseId": "MSE-202", "name": "Cristallography and diffraction methods", "description": ["bravais"]}
+{"courseId": "FIN-403", "name": "Econometrics", "description": []}
+{"courseId": "BIOENG-516", "name": "Lab methods : histology", "description": ["22nd"]}
+{"courseId": "AR-401(w)", "name": "Studio MA1 (Escher et GuneWardena)", "description": ["twentieth", "emblematic", "chemosphere", "costly", "rudolf", "schindler", "gehry", "pr\u00e9servation", "archival"]}
+{"courseId": "ChE-201", "name": "Introduction to chemical engineering", "description": ["dof"]}
+{"courseId": "MGT-439", "name": "Information technology and digital strategy", "description": []}
+{"courseId": "BIO-609", "name": "Practical - Bucher Lab", "description": ["explorative", "hypersensitive", "pwmtools", "meme"]}
+{"courseId": "PHYS-702", "name": "Advanced quantum field theory", "description": ["qft", "symanzik"]}
+{"courseId": "MATH-726", "name": "Working group in Topology I", "description": []}
+{"courseId": "CS-210", "name": "Functional programming", "description": ["declaratative", "lisp"]}
+{"courseId": "BIO-694", "name": "Neurotechnologies to treat neurodisorders: neuroprosthetics (EDNE)", "description": ["chairman"]}
+{"courseId": "BIOENG-512", "name": "Lab methods : bioactive compounds screening", "description": ["rnas", "rnainterference", "21st", "25th"]}
+{"courseId": "MICRO-534", "name": "Advanced MEMS", "description": ["familiarisation", "transduce", "die", "tsvs", "solving"]}
+{"courseId": "AR-401(c)", "name": "Th\u00e9orie et critique du projet MA1 (Geers)", "description": ["novissima"]}
+{"courseId": "MICRO-710", "name": "PLLs and clock & data recovery", "description": ["dco", "ghz", "10ghz"]}
+{"courseId": "ENV-716", "name": "Active Remote Sensing of the Atmosphere", "description": ["sensed", "aerosols", "microphysics", "multiparameter"]}
+{"courseId": "BIO-638", "name": "Practical - Lemaitre Lab", "description": ["wild", "infect", "lemaitrelab"]}
+{"courseId": "EE-532", "name": "Integrated circuits technology", "description": ["shrink", "cleaning", "metallization", "etchning", "icvisualize"]}
+{"courseId": "MGT-484", "name": "Applied probability & stochastic processes", "description": ["tsitsiklis"]}
+{"courseId": "MGT-466", "name": "Negotiation techniques", "description": ["participation20"]}
+{"courseId": "COM-414", "name": "Satellite communications  systems and networks", "description": ["inmarsat", "fdma", "tdma", "tcm", "broadand"]}
+{"courseId": "MATH-454", "name": "Parallel and high-performance computing", "description": ["gpgpu", "gpu"]}
+{"courseId": "PHYS-424", "name": "Plasma physics III", "description": ["completes", "prevoious", "lawson", "af", "stellarator", "instabilities"]}
+{"courseId": "ME-409", "name": "Energy conversion and renewable energy", "description": ["iphysics"]}
+{"courseId": "MICRO-421", "name": "Image optics", "description": ["perez"]}
+{"courseId": "FIN-602", "name": "Financial Econometrics (EDFI)", "description": []}
+{"courseId": "CH-492", "name": "Interdisciplinary / disciplinary project for chemical master", "description": ["macrocycle", "carbonic", "esterase", "photoanodes", "ce", "priciples"]}
+{"courseId": "EE-593", "name": "Social media", "description": []}
+{"courseId": "FIN-505", "name": "Fixed income analysis", "description": ["callable", "\u0080\u0094morton", "cir", "examination50"]}
+{"courseId": "CS-206", "name": "Parallelism and concurrency", "description": []}
+{"courseId": "ENG-602", "name": "Optical fibers and fiber devices", "description": []}
+{"courseId": "CH-725", "name": "Surface and thin films processes", "description": ["sputtering3", "accommodation", "diffusion4", "models5", "adatom", "growth6", "terise", "films8", "films10", "abinitio"]}
+{"courseId": "MATH-600", "name": "Optimization and simulation", "description": ["ansd"]}
+{"courseId": "MGT-481", "name": "Financial & managerial accounting", "description": []}
+{"courseId": "MGT-411", "name": "Innovation management", "description": ["codify", "deliverables"]}
+{"courseId": "MGT-690(A)", "name": "Field Research Project A", "description": []}
+{"courseId": "EE-451", "name": "Image analysis and pattern recognition", "description": ["perceptrons"]}
+{"courseId": "FIN-408", "name": "Stochastic calculus I", "description": ["jensen", "\u0080\u0099", "ornstein", "uhlenbeck", "control40"]}
+{"courseId": "MSE-611", "name": "Piezoelectric materials, properties and devices", "description": ["relaxors", "backround", "attendeeds", "partcipants", "creepand", "flexoelectricity"]}
+{"courseId": "ENV-425", "name": "Limnology", "description": ["lakes", "sedimentological", "salt", "stratification", "phytoplankton", "zooplankton", "limnological", "wrm", "geochemistry", "stratified", "sediment", "versa"]}
+{"courseId": "EE-515", "name": "Fundamentals of biosensors and electronic biochips", "description": ["\u00a7more", "\u00a7electrical", "\u00a7surface", "\u00a7charge", "\u00a7case", "hystorically", "proccesses", "\u00a7study", "\u00a7prepare"]}
+{"courseId": "COM-303", "name": "Signal processing for communications", "description": ["dtft", "modem", "lcav"]}
+{"courseId": "MICRO-618", "name": "Soft Microsystems Processing and Devices", "description": ["lightweight", "bullet", "morph", "flex"]}
+{"courseId": "EE-558", "name": "A Network Tour of Data Science", "description": ["enhanced", "cerebral", "vandergheynst", "icml", "annex", "dropbox", "dl", "sci", "equivallent"]}
+{"courseId": "CH-728", "name": "Mass spectrometry, principles and applications", "description": ["analyszers"]}
+{"courseId": "ENV-470", "name": "Development engineering", "description": []}
+{"courseId": "MSE-464", "name": "Assembly techniques", "description": ["pricinples"]}
+{"courseId": "PHYS-608", "name": "Nonlinear Optics", "description": []}
+{"courseId": "BIO-430", "name": "Multidisciplinary organization of medtechs/biotechs", "description": []}
+{"courseId": "PHYS-610", "name": "Nonlinear Spectroscopy", "description": []}
+{"courseId": "EE-521", "name": "Advanced analog and RF integrated circuits design II", "description": []}
+{"courseId": "MICRO-711", "name": "RF MEMS for communications applications", "description": []}
+{"courseId": "CIVIL-457", "name": "Fundamentals of traffic operations and control", "description": []}
+{"courseId": "PHYS-302", "name": "Biophysics II", "description": []}
+{"courseId": "PHYS-738", "name": "Quantum Field Theory Methods in Gravity and Cosmology", "description": []}
+{"courseId": "MICRO-422", "name": "Lasers: theory and modern applications", "description": []}
+{"courseId": "EE-613", "name": "Machine Learning for Engineers", "description": []}
+{"courseId": "EE-466", "name": "Energy storage in power systems: technologies, applications and future needs", "description": []}
+{"courseId": "MSE-484", "name": "Properties of semiconductors and related nanostructures", "description": []}
+{"courseId": "CIVIL-522", "name": "Seismic engineering", "description": []}
+{"courseId": "AR-402(b)", "name": "Th\u00e9orie et critique du projet MA2 (Gugger)", "description": []}
+{"courseId": "EE-598", "name": "Advanced lab in electrical engineering", "description": []}
+{"courseId": "CS-453", "name": "Concurrent algorithms", "description": []}
+{"courseId": "ENG-400", "name": "Water quality modeling", "description": []}
+{"courseId": "BIOENG-451", "name": "Scientific literature analysis in Neuroscience", "description": []}
+{"courseId": "COM-402", "name": "Information security and privacy", "description": []}
+{"courseId": "ChE-403", "name": "Chemical engineering of heterogenous reactions", "description": []}
+{"courseId": "MICRO-514", "name": "Flexible bioelectronics", "description": []}
+{"courseId": "ChE-408", "name": "Eco-friendly production and process intensification", "description": []}
+{"courseId": "BIO-699(n)", "name": "Training Rotation (EDNE)", "description": []}
+{"courseId": "COM-502", "name": "Dynamical system theory for engineers", "description": []}
+{"courseId": "MSE-432", "name": "Introduction to magnetic materials in modern technologies", "description": []}
+{"courseId": "FIN-612", "name": "Empirical Methods in Corporate Finance", "description": []}
+{"courseId": "PHYS-730", "name": "Cosmology: Dark and Luminous Matters ", "description": []}
+{"courseId": "BIO-478", "name": "Pharmacology and pharmacokinetics", "description": []}
+{"courseId": "CS-250", "name": "Algorithms", "description": []}
+{"courseId": "MATH-432", "name": "Probability theory", "description": []}
+{"courseId": "MICRO-718", "name": "Theoretical Microfluidics", "description": []}
+{"courseId": "MGT-501", "name": "Economics of innovation", "description": []}
+{"courseId": "CH-414", "name": "Pharmacological chemistry", "description": []}
+{"courseId": "PHYS-708", "name": "High energy and space astrophysics (UNIGe)", "description": []}
+{"courseId": "EE-612", "name": "Fundamentals in statistical pattern recognition", "description": []}
+{"courseId": "COM-702", "name": "Advanced Topics in Cryptology", "description": []}
+{"courseId": "COM-501", "name": "Advanced cryptography", "description": []}
+{"courseId": "MATH-449", "name": "Biostatistics", "description": []}
+{"courseId": "CS-446", "name": "Digital 3D Geometry Processing", "description": []}
+{"courseId": "CIVIL-604", "name": "Introduction to digital signal processing using Matlab, applied to environmental sciences and civil engineering", "description": []}
+{"courseId": "ChE-402", "name": "Advanced diffusional separation processes", "description": []}
+{"courseId": "BIO-505", "name": "Lab immersion academic (outside EPFL) B", "description": []}
+{"courseId": "CH-423", "name": "Inorganic reactivity", "description": []}
+{"courseId": "ENV-542", "name": "Advanced satellite positioning", "description": []}
+{"courseId": "EE-490(c)", "name": "Lab in electrical energy systems", "description": []}
+{"courseId": "MICRO-567", "name": "Optical waves propagation", "description": []}
+{"courseId": "MICRO-617", "name": "Energy Autonomous Wireless Smart Systems", "description": []}
+{"courseId": "CS-328", "name": "Numerical methods for visual computing", "description": []}
+{"courseId": "MICRO-709", "name": "Power management", "description": []}
+{"courseId": "MGT-433", "name": "Environmental policy", "description": []}
+{"courseId": "ENV-507", "name": "Fate and behaviour of organic pollutants", "description": []}
+{"courseId": "BIO-657", "name": "Landmark Papers in Cancer and Infection", "description": []}
+{"courseId": "EE-520", "name": "Advanced analog and RF integrated circuits design I", "description": []}
+{"courseId": "ME-524", "name": "Advanced control systems", "description": []}
+{"courseId": "MSE-803", "name": "2D Layered Materials: Synthesis, Properties and Applications", "description": []}
+{"courseId": "FIN-600", "name": "Game Theory", "description": []}
+{"courseId": "EE-611", "name": "Linear system theory", "description": []}
+{"courseId": "MATH-260", "name": "Discrete mathematics", "description": []}
+{"courseId": "MICRO-600", "name": "Emerging Nanopatterning Methods", "description": []}
+{"courseId": "EE-491(b)", "name": "Project in information technologies", "description": []}
+{"courseId": "MATH-360", "name": "Graph theory", "description": []}
+{"courseId": "MSE-231", "name": "Ceramics, structures and properties   TP", "description": []}
+{"courseId": "MGT-401", "name": "Strategic marketing & technology commercialization", "description": []}
+{"courseId": "BIO-506", "name": "Lab immersion in industry A", "description": []}
+{"courseId": "CS-455", "name": "Topics in theoretical computer science", "description": []}
+{"courseId": "CIVIL-706", "name": "Advanced Earthquake Engineering", "description": []}
+{"courseId": "MICRO-430", "name": "Scaling laws in micro- and nanosystems", "description": []}
+{"courseId": "MICRO-431", "name": "Materials and technology of microfabrication", "description": []}
+{"courseId": "MGT-429", "name": "Business information systems", "description": []}
+{"courseId": "HUM-427(a)", "name": "History of globalization I", "description": []}
+{"courseId": "CS-323(a)", "name": "Operating systems implementation", "description": []}
+{"courseId": "HUM-348", "name": "Entrepreneurship", "description": []}
+{"courseId": "CH-452", "name": "Computational methods in molecular quantum mechanics", "description": []}
+{"courseId": "CH-617", "name": "High pressure in chemical kinetics and equilibria", "description": []}
+{"courseId": "MSE-403", "name": "Materials Science", "description": []}
+{"courseId": "MSE-657", "name": "CCMX Winter School - Additive Manufacturing of Metals and the Material Science Behind It'", "description": []}
+{"courseId": "MSE-442", "name": "Introduction to crystal growth by epitaxy", "description": []}
+{"courseId": "MICRO-707", "name": "Microstructuring of glass", "description": []}
+{"courseId": "CIVIL-443", "name": "Advanced composites in engineering structures", "description": []}
+{"courseId": "ENV-306", "name": "Ecotoxicology", "description": []}
+{"courseId": "BIO-491", "name": "New tools and research strategies in personalized medicine", "description": []}
+{"courseId": "MATH-468", "name": "Numerical methods for electromagnetics", "description": []}
+{"courseId": "ENG-607", "name": "Photomechanics for Engineers", "description": []}
+{"courseId": "MSE-652", "name": "Introduction to scanning electron microscopy microanalysis techniques", "description": []}
+{"courseId": "EE-429", "name": "Fundamentals of VLSI design", "description": []}
+{"courseId": "EE-539", "name": "Electric filters", "description": []}
+{"courseId": "CS-307", "name": "Introduction to multiprocessor architecture", "description": []}
+{"courseId": "EE-617", "name": "Wireless Transceivers: Radio Architectures, System and Circuit Design", "description": []}
+{"courseId": "COM-404", "name": "Information theory and coding", "description": []}
+{"courseId": "CH-411", "name": "Cellular Signalling", "description": []}
+{"courseId": "MSE-424", "name": "Fracture of materials", "description": []}
+{"courseId": "MSE-804", "name": "Advances in Additive Manufacturing for Polymers in Bioengineering, Electronics and Material Science", "description": []}
+{"courseId": "CH-415", "name": "Chemistry of small biological molecules", "description": []}
+{"courseId": "AR-402(y)", "name": "Th\u00e9orie et critique du projet MA2 (Huang)", "description": []}
+{"courseId": "CS-486", "name": "Human computer interaction", "description": []}
+{"courseId": "BIO-493", "name": "Scientific project design in integrative neurosciences", "description": []}
+{"courseId": "MSE-486", "name": "Organic electronic materials - synthesis, applications, properties", "description": []}
+{"courseId": "ENV-548", "name": "Sensor orientation", "description": []}
+{"courseId": "ENV-540", "name": "Imagery of territory", "description": []}
+{"courseId": "BIO-494", "name": "Scientific project design in drug discovery", "description": []}
+{"courseId": "BIO-691", "name": "Brain Bioenergetics: from behavior to pathology", "description": []}
+{"courseId": "CS-101", "name": "Advanced information, computation, communication I", "description": []}
+{"courseId": "EE-442", "name": "Wireless receivers: algorithms and architectures", "description": []}
+{"courseId": "CH-727", "name": "Biomimetic membrane systems and their applications", "description": []}
+{"courseId": "MATH-710", "name": "Data Analysis for Science and Engineering", "description": []}
+{"courseId": "BIO-477", "name": "Infection biology", "description": []}
+{"courseId": "COM-510", "name": "Advanced digital communications", "description": []}
+{"courseId": "AR-522", "name": "Difficult Double Double Histories", "description": []}
+{"courseId": "BIO-503", "name": "Lab immersion III", "description": []}
+{"courseId": "BIO-622", "name": "Practical - Lingner Lab", "description": []}
+{"courseId": "PHYS-447", "name": "Reactor Technology", "description": []}
+{"courseId": "FIN-503", "name": "Advanced derivatives", "description": []}
+{"courseId": "ENV-546", "name": "Geocomputation", "description": []}
+{"courseId": "BIO-802", "name": "Summer School on Neurophysiology for Neural and Biomedical Engineering (2016)", "description": []}
+{"courseId": "MATH-641", "name": "Multivariate Extreme Value and Max-Stable Processes", "description": []}
+{"courseId": "BIOENG-600", "name": "Monthly IBI-EDBB Mini-symposia", "description": []}
+{"courseId": "ENG-609", "name": "Numerical Methods for Physical Properties Evaluation", "description": []}
+{"courseId": "MATH-633", "name": "High Dimensional Approximation for PDEs with random parameters", "description": []}
+{"courseId": "CIVIL-444", "name": "Energy geostructures", "description": []}
+{"courseId": "EE-516", "name": "Data analysis and model classification", "description": []}
+{"courseId": "ME-410", "name": "Mechanical product design and development", "description": []}
+{"courseId": "CIVIL-603", "name": "Energy planning: modeling and decision support systems", "description": []}
+{"courseId": "ENV-721", "name": "Waterborne Pathogens", "description": []}
+{"courseId": "FIN-606", "name": "Mathematics for Financial Economics", "description": []}
+{"courseId": "BIO-105", "name": "Cellular biology and biochemistry for engineers", "description": []}
+{"courseId": "EE-472", "name": "Smart grids technologies", "description": []}
+{"courseId": "CIVIL-351", "name": "Transportation systems engineering", "description": []}
+{"courseId": "MATH-726(2)", "name": "Working group in Topology II", "description": []}
+{"courseId": "COM-512", "name": "Networks out of control", "description": []}
+{"courseId": "MSE-351", "name": "Surface analysis", "description": []}
+{"courseId": "ME-475", "name": "Multi-body simulation", "description": []}
+{"courseId": "FIN-411", "name": "Accounting for finance", "description": []}
+{"courseId": "CS-208", "name": "Computer architecture", "description": []}
+{"courseId": "MSE-623", "name": "Laser Processing of Materials: From Optical Properties of Materials and Light-Matter Interaction to Applications", "description": []}
+{"courseId": "CS-476", "name": "Real-time embedded systems", "description": []}
+{"courseId": "MICRO-453", "name": "Robotics practicals", "description": []}
+{"courseId": "BIO-629", "name": "Practical - Naef Lab", "description": []}
+{"courseId": "CS-596", "name": "Optional project in computer science", "description": []}
+{"courseId": "AR-482", "name": "UE W: Reading construction", "description": []}
+{"courseId": "EE-588", "name": "Advanced lab in electrical energy systems", "description": []}
+{"courseId": "EE-525", "name": "HF and VHF circuits and techniques II", "description": []}
+{"courseId": "MICRO-391", "name": "Interfaces in biology and nanoscience", "description": []}
+{"courseId": "BIO-611", "name": "Practical - Constam Lab", "description": []}
+{"courseId": "FIN-603", "name": "Dynamic Asset Pricing", "description": []}
+{"courseId": "Caution, these contents corresponds to the coursebooks of last year", "name": "Technology and Public Policy - (c) Technology, intellectual property and innovation policy", "description": []}
+{"courseId": "MICRO-432", "name": "Microelectronics", "description": []}
+{"courseId": "ME-444", "name": "Hydrodynamics", "description": []}
+{"courseId": "MGT-625", "name": "Readings in Organization Economics", "description": []}
+{"courseId": "PHYS-449", "name": "Optics III", "description": []}
+{"courseId": "CH-710", "name": "Gene transfer and recombinant protein expression in animal cells", "description": []}
+{"courseId": "MSE-624", "name": "CCMX Advanced Course - Atomic Force Microscopy (AFM): Theory and Practice", "description": []}
+{"courseId": "EE-575", "name": "Wave propagation along transmission lines", "description": []}
+{"courseId": "MSE-655", "name": "CCMX Advanced Course - Combining Structural & Analytical Investigations of Matter at the Micro-, Nano and Atomic Scale- (2016)", "description": []}
+{"courseId": "EE-549", "name": "Propagation of acoustic waves", "description": []}
+{"courseId": "ENG-436", "name": "Food biotechnology", "description": []}
+{"courseId": "FIN-404", "name": "Derivatives", "description": []}
+{"courseId": "MGT-468", "name": "Leading and managing in a global context", "description": []}
+{"courseId": "CS-410", "name": "Technology ventures in IC", "description": []}
+{"courseId": "CH-401", "name": "Advanced NMR and imaging", "description": []}
+{"courseId": "CH-630(1)", "name": "Seminars in Physical Chemistry (1)", "description": []}
+{"courseId": "COM-507", "name": "Optional project in communication systems", "description": []}
+{"courseId": "MSE-600", "name": "Effects of radiation on materials", "description": []}
+{"courseId": "CS-420", "name": "Advanced compiler construction", "description": []}
+{"courseId": "EE-205", "name": "Circuits and systems II", "description": []}
+{"courseId": "BIO-471", "name": "Cancer Biology I", "description": []}
+{"courseId": "PHYS-731", "name": "Magnetic confinement", "description": []}
+{"courseId": "BIO-472", "name": "Cancer Biology II", "description": []}
+{"courseId": "ENG-611", "name": "Creative Problem Solving in Science and Engineering", "description": []}
+{"courseId": "EE-730", "name": "Design of Ultra-low Power Wearable Wireless Systems", "description": []}
+{"courseId": "PHYS-459", "name": "Metrology II", "description": []}
+{"courseId": "BIOENG-801", "name": "Summer school on healthcare diagnostics", "description": []}
+{"courseId": "BIO-689(b)", "name": "Introduction to practical aspects of animal experimentation and animal facilities (Winter) (EDNE)", "description": []}
+{"courseId": "FIN-402", "name": "Quantitative methods in finance", "description": []}
+{"courseId": "CH-250", "name": "Numerical methods in chemistry", "description": []}
+{"courseId": "PHYS-114", "name": "General physics II", "description": []}
+{"courseId": "CS-491", "name": "Enterprise and service-oriented architecture", "description": []}
+{"courseId": "MSE-650", "name": "Magnetic materials in modern technologies - from concepts to real devices", "description": []}
+{"courseId": "EE-576", "name": "Electromagnetic compatibility", "description": []}
+{"courseId": "MICRO-606", "name": "Scaling in MEMS", "description": []}
+{"courseId": "HUM-483", "name": "Part 4 : Research project in Area and Cultural Studies", "description": []}
+{"courseId": "ENG-618", "name": "Biomass conversion", "description": []}
+{"courseId": "ENV-500", "name": "Solid waste engineering", "description": []}
+{"courseId": "MICRO-553", "name": "Haptic human robot interfaces", "description": []}
+{"courseId": "COM-421", "name": "Statistical neurosciences", "description": []}
+{"courseId": "COM-506", "name": "Student seminar: security protocols and applications", "description": []}
+{"courseId": "PHYS-438", "name": "Fundamentals of biomedical imaging", "description": []}
+{"courseId": "MGT-431", "name": "Information : strategy & economics", "description": []}
+{"courseId": "CS-489", "name": "Personal interaction studio", "description": []}
+{"courseId": "CH-438", "name": "Total synthesis of natural products", "description": []}
+{"courseId": "ME-344", "name": "Incompressible fluid mechanics", "description": []}
+{"courseId": "PHYS-310", "name": "Solid state physics II", "description": []}
+{"courseId": "CIVIL-704", "name": "Fracture Mechanics and Fatigue of Structures", "description": []}
+{"courseId": "ENV-720", "name": "HydroPower and Dams: Benefits and Concerns", "description": []}
+{"courseId": "COM-401", "name": "Cryptography and security", "description": []}
+{"courseId": "BIO-480", "name": "Neurosciences I : molecular neuroscience and neurodegeneration", "description": []}
+{"courseId": "ENV-722", "name": "Microbial diversity", "description": []}
+{"courseId": "BIO-483", "name": "Neurosciences III : behavioral and cognitive neuroscience", "description": []}
+{"courseId": "MSE-470(a)", "name": "Seminar series on advances in materials (autumn)", "description": []}
+{"courseId": "MSE-621", "name": "Characterization Methods in Materials Science", "description": []}
+{"courseId": "MICRO-561", "name": "Biomicroscopy I", "description": []}
+{"courseId": "PHYS-332", "name": "Computational physics III", "description": []}
+{"courseId": "EE-490(e)", "name": "Lab in microwaves", "description": []}
+{"courseId": "CIVIL-428", "name": "Engineering geology for geo-energy", "description": []}
+{"courseId": "ChE-451", "name": "Process development I", "description": []}
+{"courseId": "CIVIL-709", "name": "New Concretes for Structures", "description": []}
+{"courseId": "ENG-366", "name": "Signals, instruments, and systems", "description": []}
+{"courseId": "CS-341", "name": "Introduction to computer graphics", "description": []}
+{"courseId": "MATH-634", "name": "Probabilistic Coupling", "description": []}
+{"courseId": "MATH-442", "name": "Statistical theory", "description": []}
+{"courseId": "MATH-342", "name": "Time series", "description": []}
+{"courseId": "EE-440", "name": "Photonic systems and technology", "description": []}
+{"courseId": "MATH-401", "name": "Advanced analysis II", "description": []}
+{"courseId": "PHYS-736", "name": "Plasma instabilities", "description": []}
+{"courseId": "EE-548", "name": "Audio engineering", "description": []}
+{"courseId": "AR-301(d)", "name": "Studio BA5 (Fr\u00f6hlich M. & A.)", "description": []}
+{"courseId": "ENG-420", "name": "Environmental transport phenomena", "description": []}
+{"courseId": "MICRO-570", "name": "Advanced machine learning", "description": []}
+{"courseId": "PHYS-724", "name": "Ultrafast phenomena", "description": []}
+{"courseId": "MSE-637(b)", "name": "Transmission electron microscopy and diffraction (b)", "description": []}
+{"courseId": "ENV-405", "name": "Water and wastewater treatment", "description": []}
+{"courseId": "ChE-320", "name": "Bioreactor modeling and simulation", "description": []}
+{"courseId": "EE-536", "name": "Physical models for micro and nanosystems", "description": []}
+{"courseId": "MICRO-615", "name": "Reliability of MEMS (EDOC)", "description": []}
+{"courseId": "EE-725", "name": "Grid and Converter Controls", "description": []}
+{"courseId": "ENG-601(2)", "name": "Light sources: optical fiber and waveguide lasers", "description": []}
+{"courseId": "MICRO-522", "name": "Integrated optics", "description": []}
+{"courseId": "ENV-617", "name": "Snow Science Winter School", "description": []}
+{"courseId": "MSE-461", "name": "Micro and nanostructuration of materials", "description": []}
+{"courseId": "ME-341", "name": "Heat and mass transfer", "description": []}
+{"courseId": "CS-251", "name": "Theory of computation", "description": []}
+{"courseId": "PHYS-201(e)", "name": "General physics III", "description": []}
+{"courseId": "ME-608", "name": "Methods of asymptotic analysis in mechanics", "description": []}
+{"courseId": "ChE-404", "name": "Environment chemical and biological technology", "description": []}
+{"courseId": "MICRO-515", "name": "Evolutionary robotics", "description": []}
+{"courseId": "BIOENG-404", "name": "Analysis and modelling of locomotion", "description": []}
+{"courseId": "EE-708", "name": "Advanced topics in electromagnetic compatibility", "description": []}
+{"courseId": "EE-729", "name": "Fundamentals of Biometrics", "description": []}
+{"courseId": "CS-470", "name": "Advanced computer architecture", "description": []}
+{"courseId": "CH-404", "name": "Laboratory information management systems (LIMS)", "description": []}
+{"courseId": "FIN-521", "name": "Advanced topics in financial econometrics", "description": []}
+{"courseId": "MATH-405", "name": "Harmonic analysis", "description": []}
+{"courseId": "BIO-443", "name": "Fundamentals of biophotonics", "description": []}
+{"courseId": "BIO-687", "name": "Engineering of musculoskeletal system and rehabilitation", "description": []}
+{"courseId": "MGT-400", "name": "Corporate strategy", "description": []}
+{"courseId": "MATH-350", "name": "Introduction to the finite elements method", "description": []}
+{"courseId": "EE-603", "name": "Transient and dynamic analysis of electric power systems", "description": []}
+{"courseId": "FIN-608", "name": "Information and Asset Pricing", "description": []}
+{"courseId": "CS-473", "name": "Embedded systems", "description": []}
+{"courseId": "MSE-478", "name": "Organic semiconductors", "description": []}
+{"courseId": "MATH-460", "name": "Combinatorial optimization", "description": []}
+{"courseId": "BIO-463", "name": "Genomics and bioinformatics", "description": []}
+{"courseId": "ME-623", "name": "Advances in Contact Mechanics", "description": []}
+{"courseId": "MSE-651", "name": "Crystallography of structural phase transformations", "description": []}
+{"courseId": "MICRO-700", "name": "Advanced analog IC design", "description": []}
+{"courseId": "COM-208", "name": "Computer networks", "description": []}
+{"courseId": "MSE-421", "name": "Statistical mechanics", "description": []}
+{"courseId": "MGT-482", "name": "Principles of finance", "description": []}
+{"courseId": "HUM-422(b)", "name": "Understanding modern Switzerland II", "description": []}
+{"courseId": "ME-464", "name": "Introduction to nuclear engineering", "description": []}
+{"courseId": "CIVIL-711", "name": "Information Science in Engineering", "description": []}
+{"courseId": "CH-451", "name": "Applied molecular quantum chemistry", "description": []}
+{"courseId": "BIO-692", "name": "Symmetry and Conservation in the Cell", "description": []}
+{"courseId": "MSE-422", "name": "Advanced metallurgy", "description": []}
+{"courseId": "ENV-615", "name": "Environmental Economics for Engineers", "description": []}
+{"courseId": "MGT-407", "name": "Economics of innovation & management in energy", "description": []}
+{"courseId": "HUM-422(a)", "name": "Understanding modern Switzerland I", "description": []}
+{"courseId": "CIVIL-605", "name": "Communication for Research Engineers", "description": []}
+{"courseId": "EE-365", "name": "Power electronics", "description": []}
+{"courseId": "CH-629(1)", "name": "Current Topics in Chemical Biology 1", "description": []}
+{"courseId": "ME-403", "name": "Applied mechanical design", "description": []}
+{"courseId": "MSE-643", "name": "Optical Materials: Fundamental concepts and recent developments", "description": []}
+{"courseId": "MGT-469", "name": "Presentation skills", "description": []}
+{"courseId": "MSE-704", "name": "3D Electron Microscopy and FIB-Nanotomography", "description": []}
+{"courseId": "MSE-636(a)", "name": "Scanning electron microscopy techniques (a)", "description": []}
+{"courseId": "MICRO-560", "name": "BioMEMS", "description": []}
+{"courseId": "PHYS-423", "name": "Plasma physics II", "description": []}
+{"courseId": "BIOENG-513", "name": "Lab methods : biosafety", "description": []}
+{"courseId": "COM-417", "name": "Advanced probability and applications", "description": []}
+{"courseId": "EE-511", "name": "Sensors in medical instrumentation", "description": []}
+{"courseId": "ChE-414", "name": "Thermodynamics of energy conversion and storage", "description": []}
+{"courseId": "EE-583", "name": "Spacecraft avionics systems, architectures and processors", "description": []}
+{"courseId": "CH-161(en)", "name": "General chemistry (English)", "description": []}
+{"courseId": "CS-714", "name": "Games for Crowds and Networks", "description": []}
+{"courseId": "MATH-456", "name": "Numerical Analysis and Computational Mathematics", "description": []}
+{"courseId": "BIO-659", "name": "Advanced Microscopy for Life Science", "description": []}
+{"courseId": "AR-201(c)", "name": "Th\u00e9orie et critique du projet BA3 (De Vylder & Taillieu)", "description": []}
+{"courseId": "CH-244", "name": "Quantum chemistry", "description": []}
+{"courseId": "MICRO-401", "name": "Machine learning programming", "description": []}
+{"courseId": "BIO-671", "name": "Practical - Meylan Lab", "description": []}
+{"courseId": "EE-514", "name": "Brain-computer interaction", "description": []}
+{"courseId": "ENG-627", "name": "Academic Writing for Doctoral Students", "description": []}
+{"courseId": "AR-402(z)", "name": "Studio MA2 (L\u00fctjens et Padmanabhan)", "description": []}
+{"courseId": "EE-207", "name": "Measuring systems laboratory work", "description": []}
+{"courseId": "EE-565", "name": "Industrial electronics II", "description": []}
+{"courseId": "CH-620", "name": "Efficient Synthetic Routes Towards Bioactive Molecules", "description": []}
+{"courseId": "MSE-468", "name": "Atomistic and quantum simulations of materials", "description": []}
+{"courseId": "CH-444", "name": "Electronic spectroscopy", "description": []}
+{"courseId": "MATH-201", "name": "Analysis III", "description": []}
+{"courseId": "BIO-630", "name": "Practical - Radtke Lab", "description": []}
+{"courseId": "BIO-382", "name": "Neuroscience for engineers", "description": []}
+{"courseId": "EE-556", "name": "Mathematics of data: from theory to computation", "description": []}
+{"courseId": "CH-611", "name": "Inorganic chemistry \"Techniques and methods\"", "description": []}
+{"courseId": "ENG-272", "name": "Fluid mechanics (for SIE)", "description": []}
+{"courseId": "CH-321", "name": "Bioinorganic chemistry", "description": []}
+{"courseId": "CH-402", "name": "Bioanalytics and analytical sensors", "description": []}
+{"courseId": "PHYS-434", "name": "Physics of photonic semiconductor devices", "description": []}
+{"courseId": "ChE-460", "name": "Project in Biotechnology", "description": []}
+{"courseId": "EE-719", "name": "Digital Speech and Audio Coding", "description": []}
+{"courseId": "CS-452", "name": "Foundations of software", "description": []}
+{"courseId": "CS-717", "name": "Current Topics in Distributed Systems", "description": []}
+{"courseId": "CS-487", "name": "Industrial automation", "description": []}
+{"courseId": "BIO-502", "name": "Lab immersion II", "description": []}
+{"courseId": "CH-491", "name": "Project in molecular sciences", "description": []}
+{"courseId": "PHYS-709", "name": "Stellar evolution and nucleosynthesis (UNIGe)", "description": []}
+{"courseId": "MGT-432", "name": "Data science for business", "description": []}
+{"courseId": "FIN-609", "name": "Asset Pricing", "description": []}
+{"courseId": "PHYS-454", "name": "Quantum optics and quantum information", "description": []}
+{"courseId": "CH-406", "name": "Analysis of ancient materials and their degradation", "description": []}
+{"courseId": "CIVIL-435", "name": "Advanced steel design", "description": []}
+{"courseId": "ChE-602(2)", "name": "Recent Events in Energy-2", "description": []}
+{"courseId": "ENG-440", "name": "Spatial statistics and analysis", "description": []}
+{"courseId": "ChE-459", "name": "Process development project", "description": []}
+{"courseId": "BIOENG-489", "name": "Semester project in Bioengineering", "description": []}
+{"courseId": "ENV-509", "name": "Applied wastewater engineering", "description": []}
+{"courseId": "MSE-430", "name": "Life cycle engineering of polymers", "description": []}
+{"courseId": "CH-353", "name": "Introduction to electronic structure methods", "description": []}
+{"courseId": "MSE-802", "name": "CCMX Summer School - Multiscale Modelling of Materials (2016)", "description": []}
+{"courseId": "MSE-479", "name": "Introduction to nanomaterials", "description": []}
+{"courseId": "MSE-634", "name": "CCMX Winter School Surface Science and Coatings", "description": []}
+{"courseId": "CH-700(1)", "name": "Advanced electroanalytical chemistry I", "description": []}
+{"courseId": "CH-603", "name": "Basic principles of drug action at the nervous system", "description": []}
+{"courseId": "MATH-471", "name": "Quantitative risk management", "description": []}
+{"courseId": "MATH-474", "name": "Statistics for genomic data analysis", "description": []}
+{"courseId": "BIOENG-444", "name": "Advanced bioengineering methods laboratory", "description": []}
+{"courseId": "BIO-488", "name": "Scientific project design in translational oncology", "description": []}
+{"courseId": "PHYS-317", "name": "Optics I", "description": []}
+{"courseId": "MATH-101(en)", "name": "Analysis I (English)", "description": []}
+{"courseId": "CS-454", "name": "Convex optimization and applications", "description": []}
+{"courseId": "FIN-522", "name": "Venture capital", "description": []}
+{"courseId": "ME-451", "name": "Advanced energetics", "description": []}
+{"courseId": "PHYS-101(en)", "name": "General physics I (English)", "description": []}
+{"courseId": "BIO-467", "name": "Scientific literature analysis in Bioengineering", "description": []}
+{"courseId": "BIO-213", "name": "Biological chemistry III", "description": []}
+{"courseId": "BIOENG-449", "name": "Tissue engineering", "description": []}
+{"courseId": "ENV-719", "name": "Localization and Navigation Methods", "description": []}
+{"courseId": "PHYS-719", "name": "Advanced biomedical imaging methods and instrumentation", "description": ["steaml", "fat", "multinuclear", "dept", "hh", "artifacts", "hindered", "dti", "mtc", "cpmg"]}
+{"courseId": "BIO-318", "name": "Scientific project design in synthetic biology (iGEM)", "description": ["solely"]}
+{"courseId": "ME-602", "name": "Modelling, optimisation, design and analysis of integrated energy systems", "description": ["pumps", "discontinuous"]}
+{"courseId": "MATH-261", "name": "Discrete optimization", "description": ["termination", "optmization"]}
+{"courseId": "EE-425", "name": "HF and VHF circuits and techniques I", "description": ["components2", "circuits3", "intermodulation6", "vhfassess"]}
+{"courseId": "BIO-469", "name": "Scientific project design in regenerative medicine and diagnostics", "description": []}
+{"courseId": "PHYS-443", "name": "Neutronics", "description": ["multizone", "multigroup"]}
+{"courseId": "MGT-603", "name": "Qualitative Research Methods", "description": []}
+{"courseId": "ME-474", "name": "Numerical flow simulation", "description": ["ah10identify", "flows"]}
+{"courseId": "PHYS-446", "name": "Reactor Experiments", "description": ["bf3", "h2o"]}
+{"courseId": "BIO-640", "name": "Practical - Van der Goot Lab", "description": ["subcellular", "goot"]}
+{"courseId": "BIOENG-442", "name": "Biomaterials", "description": ["degradable", "suitability"]}
+{"courseId": "MICRO-523", "name": "Optical detectors", "description": ["synchrone", "photomultipliers", "mct", "spad", "datasheets", "oberver"]}
+{"courseId": "BIOENG-430", "name": "Introduction to cellular and molecular biotechnology", "description": ["trasngenesis", "solves"]}
+{"courseId": "EE-715", "name": "Optimal control", "description": ["lq", "collocation"]}
+{"courseId": "CS-498", "name": "Project in computer science II", "description": []}
+{"courseId": "MICRO-511", "name": "Image processing I", "description": ["lloyd", "danalyze"]}
+{"courseId": "ENV-406", "name": "Biomineralization: from nature to application", "description": ["refers", "immense", "biominera\u00adliza\u00adtion", "scien\u00adti\u00adfic", "mecha\u00adnisms", "geologic", "ore", "contaminate", "proxy", "teeth"]}
+{"courseId": "HUM-429(b)", "name": "Philosophy of life sciences II", "description": []}
+{"courseId": "EE-584", "name": "Spacecraft design and system engineering", "description": ["survivability", "claude"]}
+{"courseId": "MSE-653", "name": "CCMX Advanced Course - Inorganic Particle Synthesis by Precipitation: From Nanoparticles to Self-organised  Mesocrystals and from Theory to Practice", "description": ["thermogravimetric"]}
+{"courseId": "BIO-670", "name": "Lectures in Life Sciences", "description": ["fields", "renowned", "biolog"]}
+{"courseId": "MATH-640", "name": "Introductory course about Spatial Statistics", "description": ["regionalized", "phenom", "insist"]}
+{"courseId": "PHYS-216", "name": "Mathematical methods for physicists", "description": ["frobenius", "diagonalisation"]}
+{"courseId": "CIVIL-527", "name": "Selected topics in mechanics of solids and structures", "description": ["catastrophic", "highlighting", "fondamental"]}
+{"courseId": "MATH-470", "name": "Martingales in financial mathematics", "description": ["snell", "envelope"]}
+{"courseId": "EE-727", "name": "Computational Social Media", "description": ["networked", "foursquare", "friending", "hashtags", "pinterest", "blogging", "smartphone", "worker", "ephemeral"]}
+{"courseId": "EE-420", "name": "Analog circuits design I", "description": ["insensibility", "otas"]}
+{"courseId": "MATH-351", "name": "Advanced numerical analysis", "description": []}
+{"courseId": "ME-445", "name": "Aerodynamics", "description": ["rotary", "ah1link", "ah4describe", "ah5describe", "ah11work", "blunt", "ah25"]}
+{"courseId": "CH-422", "name": "Catalyst design for synthesis", "description": ["dioxid", "catalysts", "ligands", "enantioselective", "biphasic", "chemisrty"]}
+{"courseId": "PHYS-106(en)", "name": "General physics (English) II", "description": ["eckart", "simpliflying"]}
+{"courseId": "CH-707", "name": "Frontiers in Chemical Synthesis. Towards Sustainable Chemistry", "description": ["carbocyclization", "ultrason", "forthe", "inbetween"]}
+{"courseId": "ENG-622", "name": "Science and Engineering Teaching and Learning", "description": ["distil", "catchphrases", "pupils", "rubric", "inadequate", "distinctive", "asistants", "13th", "learing"]}
+{"courseId": "MGT-402", "name": "B2B - high-tech marketing", "description": ["disruptive", "bilding", "defined", "rpp", "groupwork", "allen", "lane", "antifragile"]}
+{"courseId": "EE-206", "name": "Measuring systems", "description": ["multlimeters", "retest", "ajouter", "panier"]}
+{"courseId": "MATH-625(1)", "name": "Working Group in Algebraic Groups, I", "description": []}
+{"courseId": "MGT-454", "name": "Principles of microeconomics", "description": ["constantly", "monopsony", "bilateral", "monopolistic", "oligopoly", "controversial"]}
+{"courseId": "COM-511", "name": "Software-defined radio: A hands-on course", "description": []}
+{"courseId": "HUM-316", "name": "Cognitive psychology B", "description": ["psychologie"]}
+{"courseId": "MSE-443(a)", "name": "Modelling problem solving, computing and visualisation I", "description": ["currrent", "companion"]}
+{"courseId": "MGT-631", "name": "Optimization Methods and Models", "description": ["nonconvex"]}
+{"courseId": "EE-606", "name": "Nanocomputing: Devices, Circuits and Architectures", "description": ["forthcoming", "studiedand", "subthreshold", "nml", "energyconsumption", "syncrhonous", "null", "nanoarrays", "massive", "memristors", "nunc", "nearby", "spintronic"]}
+{"courseId": "ME-446", "name": "Two-phase flows and heat transfer", "description": ["bubble", "nucleate"]}
+{"courseId": "MSE-300", "name": "Theory of materials : from structures to properties", "description": ["thermodynamics2", "dilatation3"]}
+{"courseId": "MGT-641(a)", "name": "Technology and Public Policy - (a) Science, technology and society", "description": ["epistemological", "anthropology"]}
+{"courseId": "CH-704", "name": "Computation of molecular properties", "description": ["bsse", "interative", "comparision"]}
+{"courseId": "BIO-372", "name": "Microbiology", "description": ["surprising", "inhabit", "unexpected", "taxis", "symbiosis", "prop\u00e9deutique", "vivant", "hookean", "taxi", "selectivity", "symbioses"]}
+{"courseId": "EE-421", "name": "Analog circuits design II", "description": ["extends", "valiate", "cmfb", "environement"]}
+{"courseId": "ENG-623", "name": "MINTT: Management of Innovation and technology transfer (EDOC)", "description": ["creatlng", "auditor"]}
+{"courseId": "CS-471", "name": "Advanced multiprocessor architecture", "description": ["defacto", "pthreads", "mdels"]}
+{"courseId": "BIOENG-420", "name": "Single cell genomics", "description": ["eaxam"]}
+{"courseId": "CH-700(2)", "name": "Advanced electroanalytical chemistry (II session)", "description": []}
+{"courseId": "MATH-453", "name": "Computational linear algebra", "description": ["recap"]}
+{"courseId": "MATH-636", "name": "Additive Combinatorics", "description": []}
+{"courseId": "ME-419", "name": "Production management", "description": ["mrp"]}
+{"courseId": "MGT-609", "name": "De- and re-regulation of Network Industries", "description": []}
+{"courseId": "MATH-465", "name": "Packing and covering", "description": ["methos", "rogers", "symetric"]}
+{"courseId": "MSE-490(b)", "name": "Research project in materials II", "description": ["prpject"]}
+{"courseId": "CH-453", "name": "Molecular quantum dynamics", "description": ["wigner", "feyman"]}
+{"courseId": "ME-421", "name": "System Identification", "description": ["aproach", "armax", "oe", "bj", "a7examine"]}
+{"courseId": "FIN-409", "name": "Stochastic calculus II", "description": ["bj\u00f6rk", "oksendal", "bj\u00f8rk"]}
+{"courseId": "PHYS-301", "name": "Biophysics I", "description": []}
+{"courseId": "MSE-632", "name": "CCMX Winter School - Nanoparticles: From Fundamentals to Applications in Life Sciences", "description": ["nanotoxicological"]}
+{"courseId": "CH-602", "name": "Basic principles of drug action at the cardiovascular system", "description": ["system2", "channels4", "coagulant", "drugs5"]}
+{"courseId": "MATH-438", "name": "Commutative algebra", "description": ["nilpotent", "jacobson", "integrally", "artin"]}
+{"courseId": "ENV-461", "name": "Sustainability assessment", "description": ["interlinked", "openly", "allocate"]}
+{"courseId": "CH-342", "name": "Chemical kinetics", "description": []}
+{"courseId": "CIVIL-557", "name": "Decision-aid methodologies in transportation", "description": []}
+{"courseId": "ENV-167", "name": "Introduction to environmental engineering", "description": ["enviromental"]}
+{"courseId": "MGT-413(a)", "name": "Entrepreneurship & new venture strategy (a)", "description": ["proposal25"]}
+{"courseId": "ME-460", "name": "Renewable energy (for ME)", "description": ["bioliquids", "e7characterize", "e8understand", "e12calculate", "with1"]}
+{"courseId": "CH-431", "name": "Physical and computational organic chemistry", "description": ["diradicals", "maxi"]}
+{"courseId": "MICRO-513", "name": "Signal processing for functional brain imaging", "description": []}
+{"courseId": "CS-472", "name": "Design technologies for integrated systems", "description": []}
+{"courseId": "CIVIL-369", "name": "Structural stability", "description": ["sixth", "wf", "lui"]}
+{"courseId": "ENG-802", "name": "Translational Robotics for Clinical Rehabilitation", "description": ["rehabiliation", "trcr", "t3"]}
+{"courseId": "EE-445", "name": "Microwaves", "description": ["gyromagnetic", "isolators", "llimiters", "phaseshift", "deembedding"]}
+{"courseId": "MATH-461", "name": "Convexity", "description": ["analyjsis"]}
+{"courseId": "FIN-401", "name": "Introduction to finance (IF master and minor only)", "description": ["homework25"]}
+{"courseId": "BIO-666", "name": "Practical - Blokesch Lab", "description": ["tracker", "unknown", "fluorescently", "blokesch"]}
+{"courseId": "MATH-611", "name": "Scientific programming for Engineers", "description": ["calculati", "lib", "mandelbrot"]}
